@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/{StevanusO}/count.svg)
+![](https://komarev.com/ghpvc/?username=stevanuso)
 - 👋 Hi, I’m @StevanusO
 - 👀 I’m interested in becoming a Full-Stack Developer and Data Science
 - 🌱 I’m currently learning python, and PHP
