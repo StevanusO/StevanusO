@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=stevanuso)
+![](https://komarev.com/ghpvc/?username=stevanuso&style=for-the-badge&label=PROFILE+VIEW)
 - 👋 Hi, I’m @StevanusO
 - 👀 I’m interested in becoming a Full-Stack Developer and Data Science
 - 🌱 I’m currently learning python, and PHP
