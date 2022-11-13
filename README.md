@@ -2,10 +2,8 @@
 - 👀 I’m interested in becoming a Full-Stack Developer and Data Science
 - 🌱 I’m currently learning python, and PHP
 - 📫 How to reach me 
-
-- [Linkedln](www.linkedin.com/in/stevanusong)
-
-- Email : stevanusong8@gmail.com
+... [Linkedln](www.linkedin.com/in/stevanusong)
+... Email : stevanusong8@gmail.com
 
 <!---
 StevanusO/StevanusO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
