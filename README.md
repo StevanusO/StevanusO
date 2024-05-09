@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StevanusO
 - 👀 I’m interested in becoming a Full-Stack Developer and Data Science
-- 🌱 I’m currently learning python, and PHP
+- 🌱 I’m currently learning Python, and Laravel
 - 📫 How to reach me:
   - [Linkedln](https://www.linkedin.com/in/stevanusong)
   - Email : stevanusong8@gmail.com
