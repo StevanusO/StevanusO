@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StevanusO
-- 🌱 I’m currently learning Python, Laravel, and TailwindCss
+- 🌱 I’m currently learning Python, and Machine Learning
 - 📫 How to reach me:
   - [Linkedln](https://www.linkedin.com/in/stevanusong)
   - Email : stevanusong8@gmail.com
